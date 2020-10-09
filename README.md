@@ -19,5 +19,5 @@ My name is Nabeel Sheikh and I am a Data Engineer with Business Intelligence ski
 
 I strongly believe that the world is constantly evolving and that requires us to continuously grow as well, otherwise we become outdated. That's why I am always trying to grow by learning new tools and studying popular trends. 
 
-Feel free to connect with me on my LinkedIn at https://www.linkedin.com/in/nabeel--sheikh/.
-Or contact me via email at nabi.sheikh23@gmail.com
+You can reach me at my email: nabi.sheikh23@gmail.com
+Also feel free to connect on LinkedIn at https://www.linkedin.com/in/nabeel--sheikh/
